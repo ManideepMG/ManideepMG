@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ManideepMG
+- 👋 Hi, I’m @ReddyLakshmiB
 - 👀 I’m interested in c, cpp, java, python, linux
-- 🌱 I’m currently learning computer science in Malla Reddy college, Delhi
+- 🌱 I’m currently learning computer science in MITS, Madanapalle.
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
 
